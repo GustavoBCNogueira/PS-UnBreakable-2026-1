@@ -21,8 +21,6 @@ Repositório oficial do processo seletivo do **Grupo de Segurança (CTF/Hacking)
 
 ## Desafios
 
-Todos os desafios são liberados **de uma vez**. O ranking considera tempo de resolução, então envie cada PR assim que concluir, não espere terminar tudo.
-
 | # | Nome | Plataforma | Dificuldade | 
 |---|---|---|---|
 | 01 | [Simple CTF](https://tryhackme.com/room/easyctf) | TryHackMe | Easy | 
@@ -35,7 +33,7 @@ Todos os desafios são liberados **de uma vez**. O ranking considera tempo de re
 ### Sistema de pontuação
 
 - Resolver os desafios básicos já garante boa chance de aprovação;
-- O tempo de entrega (timestamp do Pull Request) desempata candidatos com mesma pontuação;
+- O tempo de entrega (data do Pull Request) desempata candidatos com mesma pontuação;
 - Participação nos encontros práticos e critérios subjetivos (como esforço) poderão ser usados como critérios de desempates.
 
 ---
@@ -96,7 +94,7 @@ O descumprimento dessas regras implica desclassificação imediata e possíveis 
 
 ## Dúvidas
 
-Entre em contato pelo **WhatsApp do grupo**.
+Entre em contato pelo **WhatsApp do grupo** ou com algum dos organiadores do processo seletivo.
 
 ---
 
